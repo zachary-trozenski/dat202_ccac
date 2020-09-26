@@ -72,7 +72,7 @@ Let's say that you downloaded another dataset from NOAA's NCEI with similar valu
 Once your data is cleaned you can export it a project (in tar.gz form) which can be re-uploaded to OpenRefine when you need it. Otherwise you can export the dataset as a csv or tsv.
 
 
-##Sources: 
+## Sources: 
 
 ### Installation Instructions
 * [From the official Github repo](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions)
