@@ -74,9 +74,11 @@ Once your data is cleaned you can export it a project (in tar.gz form) which can
 
 ### Homework
 If you'd like download OpenRefine and try your hand at some data wrangling. It doesn't have to be fancy, just try the tool out and see how you like it.
-*Fair warning*: OpenRefine struggles with huge datasets (such as the PennDOT crash dataset (1997-2018) Kayla mentioned). Try something smaller first because you'll either crash the program or your machine will self-immolate. 
 
-##Sources: 
+
+**Fair warning**: OpenRefine struggles with huge datasets (such as the PennDOT crash dataset (1997-2018) Kayla mentioned). Try something smaller first because you'll either crash the program or your machine will self-immolate. 
+
+## Sources: 
 
 ### Installation Instructions
 * [From the official Github repo](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions)
