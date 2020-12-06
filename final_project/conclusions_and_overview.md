@@ -226,7 +226,7 @@ We see a slight performance increase by 0.0010 and 0.0051 in MSE and MAE, respec
 As a footnote, I built another model using the exact same methodology as the second ARIMA model except with ` m=52`. The outcome was, much like the first ARIMA model, a flat predicted rainfall amount and identical to the first ARIMA model. To me what this suggests is that we may have found the most optimal ARIMA configuration and that the performance of my second ARIMA model is the best this particular technique can do.
 
 
-#### Conclusions
+### Conclusions
 
 At the end of the day, if I had to choose a modeling technique again for rainfall data (or a different time series with additional characteristics) I would gravitate towards using Prophet. 
 
